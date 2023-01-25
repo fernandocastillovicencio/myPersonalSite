@@ -7,7 +7,7 @@ hr {
   border-color: grey;
   border-width: 5px;
   width: 10%;
-  background-color: white;
+  background-color: #eaf6f6;
 }
 img {
   height: 200px;
@@ -16,4 +16,7 @@ h1,
 h2,
 h3 {
   color: #66bfbf;
+}
+img {
+  background-color: #eaf6f6;
 }
